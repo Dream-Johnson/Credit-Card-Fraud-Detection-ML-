@@ -55,4 +55,4 @@ The dataset contains real credit card transactions made by European cardholders 
 
 ## 🤝 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](your-link) or check out more of my work on [GitHub](your-github-url).
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/dream-johnson-bb30a4210) or check out more of my work on [GitHub](https://github.com/Dream-Johnson).
